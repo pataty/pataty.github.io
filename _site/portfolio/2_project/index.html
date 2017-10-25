@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Solving the Game of Set with Machine Vision</title>
+    <meta name="description" content="My Portfolio
+">
+
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="http://localhost:4000/portfolio/2_project/">
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <nav class="site-nav">
+
+      <div class="trigger">
+        <!--  instead of blog -->
+        <a class="page-link" href="/">blog</a>
+
+        
+          
+          <a class="page-link" href="/about/">about</a>
+          
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/portfolio/">portfolio</a>
+          
+        
+
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Solving the Game of Set with Machine Vision</h1>
+    <p class="post-meta">October 25, 2017 — 18:25</p>
+  </header>
+
+  <article class="post-content">
+    <p>In this project, I worked on a solver for the <a href="https://en.wikipedia.org/wiki/Set_%28game%29" target="blank">game of set</a>.</p>
+
+<p>Set is a game in which 12 cards are laid out in front of several players. Each card posses one of 3 variations for 4 distinct features : number (one, two or three), shape (oval, diamond or squiggle), color (purple, green and red) and shading (full, empty, shaded).</p>
+
+<p>Players try to find a set of 3 cards in which the features are either all the same or all different.</p>
+
+<div class="img_row">
+	<img class="col three" src="/img/set.jpg" alt="" title="game of set" />
+</div>
+<div class="col three caption">
+	An example of a typical game of set.
+</div>
+
+<p>In this game the solution is hidden in plain sight. It can often take minutes to solve a problem. I developed a Machine Vision program using openCV to detect the sets hidden in the image.</p>
+
+<p>The Program detects all 4 features within each card and uses the data to find sets in the image.</p>
+
+<div class="img_row">
+	<img class="col two" src="/img/6.jpg" alt="" title="example image" />
+	<img class="col one" src="/img/11.jpg" alt="" title="example image" />
+</div>
+<div class="col three caption">
+	You can also have artistically styled 2/3 + 1/3 images, like these.
+</div>
+
+<p><br /><br /><br /></p>
+
+<p>The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here’s the code for the last row of images above:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;div class="img_row"&gt;
+  &lt;img class="col two" src="/img/6.jpg"/&gt;
+  &lt;img class="col one" src="/img/11.jpg"/&gt;
+&lt;/div&gt;
+</code></pre></div></div>
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+  	<p>This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a> Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a> and text generated with <a href="http://hipsum.co" target="_blank">Hipster Ipsum</a>. &#169; 2015</p>
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

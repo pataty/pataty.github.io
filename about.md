@@ -9,7 +9,7 @@ permalink: /about/
 <br/>
 I am curruently pursuing a Masters of Science in Mechanical Engineering at the Georgia Insitute of Technology. I will be graduating in December 2017.
 
-I am passionate about pushing technology to the next level through robotics, machine vision and machine learning. 
+I am passionate about inovation and pushing technology to the next level with mechanical systems.
 
 <br/>
 <hr/>

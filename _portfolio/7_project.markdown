@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Design, Process planning and machining
-description: An example of hands on project
+title: Hands on Project
+description: designing and making a beehive 
 img: 
 ---
-sankey 
-
 
 In this project, I worked on all the steps from the design phase to the actual manufacturing over the course of a semester at Arts et Métiers. This hands on project gave me a lot of insight about product design as I was able to see the consequences of my decisions that I took at the design phase on the actual product.
 

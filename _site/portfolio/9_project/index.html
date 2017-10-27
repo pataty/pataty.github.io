@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Expert System for Machining</title>
+    <meta name="description" content="My Portfolio
+">
+
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="http://localhost:4000/portfolio/9_project/">
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <nav class="site-nav">
+
+      <div class="trigger">
+        <!-- my personal webiste instead of blog -->
+        <a class="page-link" href="/">blog</a>
+
+        
+          
+          <a class="page-link" href="/about/">about</a>
+          
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/portfolio/">portfolio</a>
+          
+        
+
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Expert System for Machining</h1>
+    <p class="post-meta">October 27, 2017 — 15:01</p>
+  </header>
+
+  <article class="post-content">
+    <p>The purpose of this project was to program an artificial intelligence capable of choosing best tools and operations to machine a part.</p>
+
+<p>For this project, I used <a href="https://en.wikipedia.org/wiki/CLIPS" target="blank">Clips</a>, an open source software developed by NASA to build <a href="https://en.wikipedia.org/wiki/Expert_system" target="blank">expert systems</a>.</p>
+
+<p>This type of system is programmed by defining rules to replicate the reasoning of an expert in machining.</p>
+
+<p>First, I defined:</p>
+
+<ul>
+  <li>the part I wanted to machine by describing it with a list of features (for example, feature 1: through hole, diameter : 12mm, direction x-axis).</li>
+  <li>the capability of the machines available in my shop (example for a 3 axis milling machine I would define the machine as: Milling machine, directions available x-axis, y-axis z-axis)</li>
+  <li>And the tools available (for example, type: drill bit, diameter : 12mm, length 100 mm)</li>
+</ul>
+
+<p>I used my knowledge in machining to define a set of rule. For example:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>The hole can be made with drill bit A
+if the diameter is of A is equal to the diameter of the hole
+and if the length of A is greater than the depth of the hole
+</code></pre></div></div>
+
+<p>Running the program lead for each feature, to the choice of:</p>
+<ul>
+  <li>The Tools</li>
+  <li>The Machine to be used</li>
+  <li>The Machining Direction</li>
+</ul>
+
+<p>The last step was to define the order of the operations to make the part based on another set of rules</p>
+
+<div class="img_row">
+	<img class="col two" src="/img/part.jpg" alt="" title="part to make" />
+	<img class="col one" src="/img/clips.jpg" alt="" title="clips project" />
+</div>
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+  	<p>This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a> Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a> and text generated with <a href="http://hipsum.co" target="_blank">Hipster Ipsum</a>. &#169; 2015</p>
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

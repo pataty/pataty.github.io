@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Technical Manager for Student Competition
-description: Internsip at KUKA
+title: Student Competition
+description: Technical Manager 
 img: /img/kuka.jpg
 ---
 

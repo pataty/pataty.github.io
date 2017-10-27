@@ -1,53 +1,56 @@
 ---
 layout: post
-title: Project
-description: Machine Vision poject
-img: /img/12.jpg
+title: Technical Manager for Student Competition
+description: Internsip at KUKA
+img: /img/kuka.jpg
 ---
 
-Lead technical team for preparation of 3D printing Competition (100 participating students) based on a 3d printer I Developed for IIWA robots and Agilus Robots (KUKA). I planned manufacturing of the 3d printer, determined optimal Robot parameters, programmed Robot to execute 3d printing trajectory (using cloud robotics) and designed electronics to control the printing temperature.
+Last year, KUKA France organized a year long 3D printing student competition with 100 participating students.
 
-I also was the technical Advisor for the competition : I supervised printing of the student's designs for the competition, graded Student Assignments and was the Technical Advisor for participating students.
-
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-
+The students were to design a bridge that would be printed using a robot.
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/kuka.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/pont.jpg" alt="" title="Example of Bridge designed by student"/>
+	<img class="col two" src="{{ site.baseurl }}/img/cura.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+	Example of bridge designed by students
 </div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
-</div>
+As part of my internship at KUKA France, I developed the software for the 3D printer used in the competition. I:
+* planned manufacturing of the 3d printer
+* determined optimal Robot parameters
+* programmed Robot to execute 3d printing trajectory (using cloud robotics)
+* designed electronics to control the printing temperature
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
+Throughout the project I applied  Agile development methods.
 
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
+	<img class="col two" src="{{ site.baseurl }}/img/robot.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/salon.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
 	You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
 
-<br/><br/><br/>
+I also was the technical Advisor for the competition:
+* I supervised printing of the student's designs for the competition
+* Graded Student Assignments
+* Was the Technical Advisor for participating students.
 
 
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
 
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/winner.jpg" alt="" title="Winners of the competititon"/>
+</div>
+<div class="col three caption">
+	Winners of the competition
+</div>
+
+
+
+
+
+
+

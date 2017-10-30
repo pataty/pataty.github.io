@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Solidarity Project
-description: Helping 40 underpriviledged chlidren in Peru
+description: Helping 40 underprivileged children in Peru
 img: /img/macusani.jpg
 ---
 
-During my first year in college my team and I organized a solidarity project to help in a 40 under priviledged children in Peru. We renovated a part of their activity center, financially supported children activities throughout the year and tutored the students. 
+During my first year in college my team and I organized a solidarity project to help in a 40 under privileged children in Peru. We renovated a part of their activity center, financially supported children activities throughout the year and tutored the students. 
 
 Over the course of 2 years, we raised 12 000 dollars through various fundraisers and sponsorships to help the children. 
 

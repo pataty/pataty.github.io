@@ -9,7 +9,7 @@ As a member of the Arts et Métiers Camera Club, I made several videos including
 * A short video to promote Arts et Métiers and it's vibrant student life
 * Trailers to increase attendance of student event
 * Videos of past events to promote the events for following years
-* Behind the scenes videos to show the work envolved in student projects
+* Behind the scenes videos
 
 
 Here are two examples of videos I have worked on.

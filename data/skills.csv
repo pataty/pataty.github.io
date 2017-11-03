@@ -1,0 +1,79 @@
+id,value
+Me,
+Me.Skills,
+Me.Skills.Robotics,
+Me.Skills.Robotics.Algorithms,
+Me.Skills.Robotics.Algorithms.Kalman Filter,3938
+Me.Skills.Robotics.Algorithms.Particle Filters,3812
+Me.Skills.Robotics.Algorithms.Image Processing,6714
+Me.Skills.Robotics.Algorithms.Point Cloud Processing,743
+Me.Skills.Robotics.Algorithms.SLAM,743
+Me.Skills.Robotics.Hardware,
+Me.Skills.Robotics.Hardware.Arduino,3534
+Me.Skills.Robotics.Hardware.BeagleBone,5731
+Me.Skills.Robotics.Hardware.Raspberry Pi,7840
+Me.Skills.Robotics.Hardware.KUKA KR6, iiwa and KMR,5914
+Me.Skills.Robotics.Hardware.Asus Xtion,3416
+Me.Skills.Robotics.Hardware.Kinect,3416
+Me.Skills.Robotics.Hardware.Sick Laser Scanner,3416
+Me.Skills.Robotics.Machine Vision,
+Me.Skills.Robotics.Machine Vision.Image Processing,3534
+Me.Skills.Robotics.Machine Vision.Camera Model,3534
+Me.Skills.Robotics.Machine Vision.Feature Detection,3534
+Me.Skills.Robotics.Machine Vision.Template Matching,3534
+Me.Skills.Robotics.Machine Vision.Neural Networks,3534
+Me.Skills.Robotics.Machine Vision.Camera Calibration,3534
+Me.Skills.Software,
+Me.Skills.Software.Tools,
+Me.Skills.Software.Tools.Git,721
+Me.Skills.Software.Tools.Linux,4294
+Me.Skills.Software.Tools.ROS,9800
+Me.Skills.Software.Tools.Gazebo,1314
+Me.Skills.Software.Languages,
+Me.Skills.Software.Languages.Python,2165
+Me.Skills.Software.Languages.Matlab,1759
+Me.Skills.Software.Languages.C++,1759
+Me.Skills.Software.Languages.Java,2165
+Me.Skills.Mechanical,
+Me.Skills.Mechanical.Software,
+Me.Skills.Mechanical.Software.Catia V6 (and V5),8833
+Me.Skills.Mechanical.Software.Solidworks,1732
+Me.Skills.Mechanical.Software.Ansys,3623
+Me.Skills.Mechanical.Design,
+Me.Skills.Mechanical.Design.Functional Analysis,1000
+Me.Skills.Mechanical.Design.Axiomatic Design,1000
+Me.Skills.Mechanical.Design.Customer Need Analysis,1000
+Me.Skills.Mechanical.Design.Mass Customisation,1000
+Me.Skills.Mechanical.Design.Product Families,1000
+Me.Skills.Mechanical.Design.Tolerance Analysis,1000
+Me.Skills.Mechanical.Design.CAD,1000
+Me.Skills.Mechanical.Design.Conceptual Design,1000
+Me.Skills.Mechanical.Design.Artificial Intelligence for Design,1000
+Me.Skills.Mechanical.Design.Numerical Optimisation for Design,1000
+Me.Skills.Mechanical.Process,
+Me.Skills.Mechanical.Process.Machining,1000
+Me.Skills.Mechanical.Process.Wood Working,1000
+Me.Skills.Mechanical.Process.Injection Molding,1000
+Me.Skills.Mechanical.Process.Foundery,1000
+Me.Skills.Mechanical.Process.Metal Sheet,1000
+Me.Skills.Mechanical.Process.Stamping,1000
+Me.Skills.Mechanical.Rapid Prototyping,
+Me.Skills.Mechanical.Rapid Prototyping.3d Printing,1000
+Me.Skills.Mechanical.Rapid Prototyping.Laser Cutting,1000
+Me.Skills.Mechanical.Rapid Prototyping.Arduino/Raspberry Pi/BeagleBone,1000
+Me.Hobbies,
+Me.Hobbies.Sports,
+Me.Hobbies.Sports.Hiking,100000
+Me.Hobbies.Sports.Climbing,100000
+Me.Hobbies.Sports.Running,100000
+Me.Hobbies.Building Things,100000
+Me.Hobbies.Building Things.Ram Pump,100000
+Me.Hobbies.Building Things.Camp Sites,200000
+Me.Hobbies.Building Things.Electronic Clap Board,100000
+Me.Hobbies.Building Things.Autonomous Rover,800000
+Me.Hobbies.Building Things.Lens Chooser,800000
+Me.Hobbies.Travelling,
+Me.Hobbies.Travelling.Solidarity Trip,100000
+Me.Hobbies.Travelling.Road Trip,200000
+Me.Hobbies.Travelling.Work Experience,100000
+Me.Hobbies.Travelling.Visiting,800000

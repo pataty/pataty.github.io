@@ -6,7 +6,7 @@ img: /img/jsp.png
 ---
 
 
-During my internship at the  <a href="https://iit.it" target="blank">Istituto Italiano di Tecnologia</a> I a research team working on an autonomous maintenance system in the Large Haedron Collider at the CERN.
+During my internship at the  <a href="https://iit.it" target="blank">Istituto Italiano di Tecnologia</a> I joined research team working on an autonomous maintenance system in the Large Haedron Collider at the CERN.
 
 I developed a cloud interface to control the robot. This interface enabled the team to:
 * Control the robot with any device (mobile, tablet or laptop)

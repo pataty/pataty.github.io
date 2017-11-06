@@ -34,7 +34,7 @@ Throughout the project I applied  Agile development methods.
 
 
 I also was the technical Advisor for the competition:
-* I supervised printing of the student's designs for the competition
+* I supervised printing of the students' designs for the competition
 * Graded Student Assignments
 * Was the Technical Advisor for participating students.
 

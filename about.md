@@ -15,7 +15,8 @@ I am currently pursuing a Masters of Science in Mechanical Engineering at the Ge
 I am passionate about innovation and pushing technology to the next level with mechanical systems.
 
 Throughout my studies and my internships (that are listed on my <a href="/data/Jean-Baptiste_Murphy.pdf" target="blank">resume</a>) I've acquired skills in Mechanical Engineering, Robotics and Machine Vision. 
-skills
+
+
 {% include skills.html %}
 {% include footer.html %}
 <br/>

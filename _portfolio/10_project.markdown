@@ -10,7 +10,7 @@ In this group project I led a team of 4 to develop a prototype  of an autonomous
 We used an RC car as a base (basic chassis, wheels, differential, motor). 
 I designed a part *using metal sheet fabrication* to position all the sensors and controllers on the rover.
 
-The rover used <a href="http://www.ros.org/" target="blank">ROS</a> to speed up the development time. The motor was controlled with an Arduino. I designed and made the odometry sensor that helped (it was one of the sensors used in our Kalman filter) to determine the position of the robot. Finally we used an Asus Xtion (Kinect equivalent) to gather extra information about the position of the robot in it's environment.
+The rover used <a href="http://www.ros.org/" target="blank">ROS</a> to speed up the development time. The motor was controlled with an Arduino. I designed and made the odometry sensor that helped (it was one of the sensors used in our Kalman filter) to determine the position of the robot. Finally we used an Asus Xtion (Kinect equivalent) to gather extra information about the position of the robot in its environment.
 
 
 

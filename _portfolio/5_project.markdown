@@ -5,11 +5,11 @@ description: Helping 40 underprivileged children in Peru
 img: /img/macusani.jpg
 ---
 
-During my first year in college my team and I organized a solidarity project to help in a 40 under privileged children in Peru. We renovated a part of their activity center, financially supported children activities throughout the year and tutored the students. 
+During my first year in college my team and I organized a solidarity project to help 40 under privileged children in Peru. We renovated a part of their activity center, financially supported children activities throughout the year and tutored the students. 
 
 Over the course of 2 years, we raised 12 000 dollars through various fundraisers and sponsorships to help the children. 
 
-This was an important experience for me in which I learnt to undertake a great project with as a team to make an impact for under privileged children.
+This was an important experience for me in which my actions made an impact for under privileged children.
 
 
 

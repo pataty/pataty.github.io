@@ -13,10 +13,10 @@ They would provide me with the parts they wanted to assemble using smart industr
 
 To carry out my studies, I:
 * Designed adaptors between the part to assemble and the robot using CAD software (Solidworks)
-* Print the part I had designed (using an Ultimaker printer)
+* Printed the part I had designed (using an Ultimaker printer)
 * *Found Creative solutions to solve the clients problems* (using sensitive or collaborative robots, vision, autonomous platforms etc)
-* Write robot trajectories to perform the task wanted to the client
-* Demonstrate the solution to the client
+* Wrote robot trajectories to perform the task wanted to the client
+* Demonstrated the solution to the client
 
 
 
